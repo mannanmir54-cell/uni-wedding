@@ -1,0 +1,6 @@
+{
+  "name": "USAMA & IQRA Wedding Invitation",
+  "description": "An elegant, romantic digital wedding invitation celebrating the union of Usama and Iqra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
